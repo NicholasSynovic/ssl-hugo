@@ -17,6 +17,6 @@ design:
     columns: '2'
 ---
 
-While we are based at [Loyola University Chicago](https://luc.edu), and we welcome anyone interested in using emerging technologies and software engineering to solve problems.
+We are based at [Loyola University Chicago](https://luc.edu) and we welcome anyone interested in using emerging technologies and software engineering to solve problems.
 
-To learn more about how to apply, please reach out to [ssl@cs.luc.edu](mailto:ssl.cs.luc.edu).
+To learn more about how to apply, please fill out [THIS FORM](https://forms.gle/r5bZTZETo68WyeoYA).

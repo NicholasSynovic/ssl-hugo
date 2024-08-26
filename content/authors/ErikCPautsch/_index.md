@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Software Engineer
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -33,6 +33,6 @@ social:
     link: https://www.erikpautsch.com
 
 user_groups:
-  - Graduate Students
+  - Ph.D Students
 
 ---

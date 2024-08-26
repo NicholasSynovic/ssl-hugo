@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Software Engineer
+role: Ph.D Student at Loyola University
 
 # Organizations/Affiliations
 organizations:
   - name: Loyola University Chicago
-    url: 'https://luc.edu/'
+    url: 'https://mhyatt000.github.io/'
 
 social:
   - icon: github
@@ -31,5 +31,5 @@ social:
     link: https://mhyatt000.github.io/
 
 user_groups:
-  - Undergraduate Students
+  - Ph.D Students
 ---
