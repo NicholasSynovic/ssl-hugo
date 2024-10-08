@@ -14,7 +14,7 @@ assignees: NicholasSynovic
 ## Required Information
 
 - First Name Last Name:
-- Title: 
+- Title:
 - Affiliated Organization:
 - Affiliated Organization URL:
 - GitHub URL:
