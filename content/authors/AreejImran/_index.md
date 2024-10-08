@@ -27,6 +27,6 @@ social:
     link: https://www.linkedin.com/in/areej-imran-791b4a22a
 
 user_groups:
-  - Undergraduate Students
+#  - Undergraduate Students
 
 ---
